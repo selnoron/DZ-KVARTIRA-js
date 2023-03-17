@@ -1,1 +1,1 @@
-<img src="static/ing/bam.webp" width="150px">
+<img src="static/img/bam.webp" width="150px">
